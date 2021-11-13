@@ -12,4 +12,5 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=robyng&layout=compact&text_color=23282e&bg_color=b3c8ea&show_icons=true&count_private=true" alt="robyng" />
+[![Robyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=robyng&theme=vue-dark&show_icons=true)](https://github.com/robyng/github-readme-stats)
+
