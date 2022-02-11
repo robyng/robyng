@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Robyn
 
-- 🔭 I’m currently working on using inquirer with Node.js
-- 🌱 I’m currently learning Javascript, Node.js, Bootstrap, Bulma, Server APIs
+- 🌱 I’m currently learning MERN stack, React.js and Bootstrap.
 - 📫 How to reach me: robyn@sitereworks.com
 
 <!-- other info
