@@ -11,5 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Robyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=robyng&theme=vue-dark&show_icons=true)](https://github.com/robyng/robyng/)
+[![Robyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=robyng&theme=vue-dark&show_icons=true)](https://github.com/robyng/)
 
