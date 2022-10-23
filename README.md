@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Robyn
 
-- 🌱 I’m currently learning Typescript, MERN stack, React.js and Bootstrap.
+- 🌱 I’m currently learning Typescript and Styled Components.
 - 📫 How to reach me: robyn@sitereworks.com
 
 <!-- other info
